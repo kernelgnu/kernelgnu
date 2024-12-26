@@ -1,5 +1,5 @@
 # Olá, eu sou Guilherme Oliveira 👋
-## 💻 Analista de Redes
+## 💻 Analista de Cybersecurity
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
