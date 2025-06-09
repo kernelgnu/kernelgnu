@@ -1,5 +1,12 @@
 # Olá, eu sou Guilherme Oliveira 👋
-## 💻 Analista de Cybersecurity
+🛡️ Cybersecurity Analyst | Linux Defender | Packet Whisperer
+
+   Especialista em segurança da informação com foco em infraestrutura, monitoramento e defesa cibernética.
+   Experiência com Linux, redes, análise de tráfego, hardening e detecção de ameaças.
+   Trabalho com soluções como Suricata, Wazuh, ELK, OPNsense, Nmap e Wireshark.
+   Entusiasta de open source, scripts eficientes e automação paranoicamente segura.
+
+📍 "Segurança não é um produto. É um processo — e eu sou parte dele."
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
